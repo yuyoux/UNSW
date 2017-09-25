@@ -2,8 +2,8 @@
 -- Schema for OzCars
 --
 -- Date: 2017/8/15
--- Student Name: Xu Yuyou
--- Student ID: z5143390
+-- Student Name: 
+-- Student ID: 
 --
 
 -- Some useful domains; you can define more if needed.
