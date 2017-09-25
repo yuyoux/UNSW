@@ -137,7 +137,7 @@ AFTER INSERT OR UPDATE ON Executive
 FOR EACH ROW
 EXECUTE PROCEDURE trigger16();
 
--- Q17: 
+-- Q17
 
 
 -- Q18: To log any updates on Price and Voume in the ASX table and log them
