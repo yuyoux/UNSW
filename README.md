@@ -2,9 +2,9 @@
 
 2017 s2
 ---
-    comp9021: python
-    comp9311: postgresql
-    comp9032: assembly avr2560
+    comp9021: Python
+    comp9311: Postgresql
+    comp9032: Assembly avr2560
     comp9020: Discrete maths
 2017 summer
 ---
