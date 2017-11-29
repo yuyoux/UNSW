@@ -6,6 +6,8 @@
     comp9311: postgresql
     comp9032: assembly avr2560
     comp9020: Discrete maths
+2017 summer
+---
 2018 s1
 ---
 2018 s2
