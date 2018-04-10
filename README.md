@@ -8,7 +8,7 @@
     comp9020: Discrete maths
 2017 summer
 ---
-    comp9024: Algorithms in C
+    comp9024: Data Structures and Algorithms in C
 2018 s1
 ---
 2018 s2
