@@ -2,25 +2,25 @@
 
 2017 s2
 ---
-    comp9021
-    comp9311
-    comp9020
-    comp9032
+    Principles of Programming
+    Database Systems
+    Foundations of Comp. Science
+    Microprocessors & Interfacing
    
 2017 summer
 ---
-    comp9024
+    Data Structures & Algorithms
 2018 s1
 ---
-    comp9321
-    comp9331
-    comp9334
-    comp9414
+    Data Services Engineering
+    Computer Networks&Applications
+    Systems Capacity Planning
+    Artificial Intelligence
 2018 s2
 ---
-    comp9323
-    comp9041
-    comp9313
-    comp9315
+    e-Enterprise Project
+    Software Construction
+    Big Data Management
+    Database Systems Implementat'n
 2019 s1
 ---
