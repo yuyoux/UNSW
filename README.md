@@ -24,3 +24,6 @@
     Database Systems Implementat'n
 2019 s1
 ---
+    Software Service Design & Eng 
+    Info Tech Project
+    Advertising Analytics
